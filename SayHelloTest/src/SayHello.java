@@ -10,6 +10,8 @@ public static void main(String [] args) {
     System.out.println("Goodbye!");
     System.out.println("endln");
     System.out.println("add a code line to test version control system");
+
+    SayHelloTest test;
 }
 
 }
