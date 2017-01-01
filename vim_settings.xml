@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/javatoolset/SayHelloTest/src/SayHelloTest.groovy" timestamp="1483261017813">
-        <mark key="[" line="2" column="2" />
+      <file name="E:/javatoolset/SayHelloTest/src/SayHelloTest.groovy" timestamp="1483282494010">
+        <mark key="]" line="10" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483279723417">
+      <file name="/Dummy.txt" timestamp="1483281866824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/groovy-2.4.7/lib/groovy-test-2.4.7.jar!/groovy/util/GroovyTestCase.class" timestamp="1483281409794" />
       <file name="E:/javatoolset/SayHelloTest/SayHelloTest.iml" timestamp="1483261213709">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -20,17 +21,33 @@
         <mark key="." line="2" column="2" />
         <mark key="^" line="2" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1483241116949">
+      <file name="/fragment.java" timestamp="1483281869257">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="15" column="4" filename="E:/javatoolset/SayHelloTest/src/SayHelloTest.groovy" />
+    </jumps>
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdm9pZCBydW5UZXN0KCkgdGhyb3dzIFRocm93YWJsZSB7CiAgICAgICAgc3VwZXIucnVuVGVzdCggKQogICAgICAgIHByaW50KCAicnVuIGdyCgpvb3Z5IHRlc3QiICk7CiAgICB9</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdm9pZCBydW5UZXN0KCkgdGhyb3dzIFRocm93YWJsZSB7CiAgICAgICAgc3VwZXIucnVuVGVzdCggKQogICAgICAgIHByaW50KCAicnVuIGdyCgpvb3Z5IHRlc3QiICk7CiAgICB9</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHJ1blRlc3QoKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICBzdXBlci5ydW5UZXN0KCApCiAgICAgICAgcHJpbnQoICJydW4gZ3I=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgdm9pZCAoKXs=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>S</text>
       </register>
     </registers>
     <search>
@@ -49,6 +66,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
