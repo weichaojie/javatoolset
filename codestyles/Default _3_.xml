@@ -1,0 +1,7 @@
+<code_scheme name="Default (3)">
+  <codeStyleSettings language="Groovy">
+    <option name="SPACE_BEFORE_SEMICOLON" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_EMPTY_METHOD_CALL_PARENTHESES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
