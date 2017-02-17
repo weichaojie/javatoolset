@@ -4,9 +4,11 @@
 import groovy.util.GroovyTestCase
 import org.codehaus.groovy.ant.Groovy;
 
-class SayHelloTest extends groovy.util.GroovyTestCase {
+class SayHelloTest extends groovy.util.GroovyTestCase
+{
 
-    static main(){
+    static main() throws Exception
+    {
         print("run main function ");
         runTest();
     }
