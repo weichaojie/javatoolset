@@ -3,11 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/javatoolset/SayHelloTest/src/SayHelloTest.groovy" timestamp="1486300120191" />
       <file name="/Dummy.txt" timestamp="1483281866824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1486299354626">
+      <file name="E:/pythontoolset/capture_screen_by_pil/src/capture_screen.py" timestamp="1493521476813">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1493521509417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/javatoolset/SayHelloTest/SayHelloTest.iml" timestamp="1483261213709">
@@ -35,7 +40,7 @@
         <text encoding="base64">ICBwcm90ZWN0ZWQgdm9pZCBydW5UZXN0KCkgdGhyb3dzIFRocm93YWJsZSB7CiAgICAgICAgc3VwZXIucnVuVGVzdCggKQogICAgICAgIHByaW50KCAicnVuIGdyCgpvb3Z5IHRlc3QiICk7CiAgICB9</text>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>%</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHJ1blRlc3QoKSB0aHJvd3MgVGhyb3dhYmxlIHsKICAgICAgICBzdXBlci5ydW5UZXN0KCApCiAgICAgICAgcHJpbnQoICJydW4gZ3I=</text>
@@ -47,7 +52,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>%</text>
       </register>
     </registers>
     <search>
@@ -69,6 +74,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
