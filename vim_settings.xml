@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1483281866824">
@@ -12,7 +12,7 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="59" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1493628282175">
+      <file name="/Python Console" timestamp="1493628375697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/javatoolset/SayHelloTest/SayHelloTest.iml" timestamp="1483261213709">
@@ -20,11 +20,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/pythontoolset/capture_screen_by_pil/src/upload_file.py" timestamp="1493628276814">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-      </file>
+      <file name="E:/pythontoolset/capture_screen_by_pil/src/upload_file.py" timestamp="1493628822593" />
       <file name="E:/javatoolset/SayHelloTest/src/SayHello.java" timestamp="1483241104545">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="2" column="2" />
@@ -95,6 +91,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
