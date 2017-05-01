@@ -100,5 +100,38 @@
       </SOURCES>
       <jarDirectory url="file://D:/Program Files (x86)/Java/jdk1.8.0_40" recursive="false" type="SOURCES" />
     </library>
+    <library name="Python 2.7.6 (D:\Python27\python.exe) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/Python27" />
+        <root url="file://D:/Python27/Lib/site-packages" />
+        <root url="file://D:/Python27/Lib/site-packages/PIL" />
+        <root url="file://D:/Python27/Lib/site-packages/six-1.10.0-py2.7.egg" />
+        <root url="file://D:/Python27/Lib/site-packages/pip-9.0.1-py2.7.egg" />
+        <root url="file://D:/Python27/Lib/site-packages/win32" />
+        <root url="file://D:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/1494736245" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Python27/DLLs" />
+        <root url="file://D:/Python27/Lib" />
+        <root url="file://D:/Python27/Lib/lib-tk" />
+        <root url="file://D:/Python27" />
+        <root url="file://D:/Python27/Lib/site-packages" />
+        <root url="file://D:/Python27/Lib/site-packages/PIL" />
+        <root url="file://D:/Python27/Lib/site-packages/six-1.10.0-py2.7.egg" />
+        <root url="file://D:/Python27/Lib/site-packages/pip-9.0.1-py2.7.egg" />
+        <root url="file://D:/Python27/Lib/site-packages/win32" />
+        <root url="file://D:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/1494736245" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
   </component>
 </application>
