@@ -9,9 +9,9 @@ public class MyComparator implements Comparator {
         MetaData m1 = (MetaData)o1;
         MetaData m2 = (MetaData)o2;
         if ( m1.getNumberId() < m2.getNumberId() )
-            return 1;
-        if ( m1.getNumberId() > m2.getNumberId())
             return -1;
+        if ( m1.getNumberId() > m2.getNumberId())
+            return 1;
         return 0;
     }
 }
