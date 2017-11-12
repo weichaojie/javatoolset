@@ -1,12 +1,13 @@
 package com.weichaojie;
 
-import java.util.*;
+import Data.FileStreamMetaData;
+import Data.MetaData;
+import Data.RDBMetaData;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
-import Data.*;
 
 public class Main {
 
@@ -47,5 +48,9 @@ public class Main {
 
         for (MetaData md : myArray)
             md.read();
+    }
+
+    private static void TestImportLogforJava() {
+
     }
 }
