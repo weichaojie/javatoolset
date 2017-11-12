@@ -9,7 +9,12 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import org.apache.log4j.*;
+
+
 public class Main {
+
+    private static Logger logger = Logger.getLogger("myFirstLog4jTest");
 
     public static void main(String[] args) {
 	// write your code here
@@ -40,8 +45,8 @@ public class Main {
     private static void TestFactoryPattern(){
         List<MetaData>  myArray = new ArrayList<>();
         myArray.add(new RDBMetaData());
-        myArray.add(new FileStreamMetaData());
         myArray.add(new RDBMetaData());
+        myArray.add(new FileStreamMetaData());
         myArray.add(new FileStreamMetaData());
         myArray.add(new RDBMetaData());
         myArray.add(new FileStreamMetaData());
@@ -51,6 +56,8 @@ public class Main {
     }
 
     private static void TestImportLogforJava() {
-
+        logger.debug("This is debug message.");
+        logger.info("This is info message.");
+        logger.error("This is error message.");
     }
 }
