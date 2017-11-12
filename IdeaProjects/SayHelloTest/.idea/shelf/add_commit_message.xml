@@ -1,0 +1,9 @@
+<changelist name="add_commit_message" date="1483199217518" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/add_commit_message/shelved.patch" />
+  <option name="DESCRIPTION" value="add commit message" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/SayHelloTest/SayHello.class" />
+    <option name="AFTER_PATH" value="out/production/SayHelloTest/SayHello.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/add_commit_message/SayHello.class" />
+  </binary>
+</changelist>
