@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3d0b8b6-1ee2-451c-98e5-7e4247fa2fbd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/weichaojie/Main (2).java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weichaojie.log" afterPath="$PROJECT_DIR$/weichaojie.log" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="D:\javatoolset\IdeaProjects\weichaojie\.idea\shelf/" />
@@ -89,6 +88,12 @@
               <item name="weichaojie" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="weichaojie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weichaojie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weichaojie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
