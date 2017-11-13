@@ -60,4 +60,5 @@ public class Main {
         logger.info("This is info message.");
         logger.error("This is error message.");
     }
+
 }
