@@ -1,9 +1,0 @@
-<changelist name="log4j" date="1510483584074" recycled="false">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/log4j/shelved.patch" />
-  <option name="DESCRIPTION" value="新增对log4j的库文件的依赖。" />
-  <binary>
-    <option name="BEFORE_PATH" value="../../libs/apache-log4j-1.2.17/log4j-1.2.17.jar" />
-    <option name="AFTER_PATH" />
-    <option name="SHELVED_PATH" />
-  </binary>
-</changelist>

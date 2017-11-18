@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="libs" level="application" />
+    <orderEntry type="library" name="log4j" level="application" />
+    <orderEntry type="library" name="httpclient" level="application" />
   </component>
 </module>
